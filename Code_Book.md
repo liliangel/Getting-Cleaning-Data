@@ -80,8 +80,7 @@ Frequency data from accelerometer where the magnitude of these three-dimensional
    * meanFreq(): Weighted average of the frequency components to obtain a mean frequency
    
 #### frequencyBodyAccelerometerJerkMagnitude- Variable.
-Frequency data from accelerometer where the magnitude of these three-dimensional signals were calculated using the Euclidean norm 
-### and these values were derived previously in time to obtain Jerk signal.
+Frequency data from accelerometer where the magnitude of these three-dimensional signals were calculated using the Euclidean norm and these values were derived previously in time to obtain Jerk signal.
    * mean(): Mean value
    * std(): Standard deviation   
   * meanFreq(): Weighted average of the frequency components to obtain a mean frequency  
@@ -93,8 +92,7 @@ Frequency data from gyroscope where the magnitude of these three-dimensional sig
    * meanFreq(): Weighted average of the frequency components to obtain a mean frequency
    
 #### frequencyBodyGyroscopeJerkMagnitude- Variable.
-Frequency data from gyroscope where the magnitude of these three-dimensional signals were calculated using the Euclidean norm 
-and these values were derived previously in time to obtain Jerk signal.
+Frequency data from gyroscope where the magnitude of these three-dimensional signals were calculated using the Euclidean norm and these values were derived previously in time to obtain Jerk signal.
    * mean(): Mean value
    * std(): Standard deviation   
    * meanFreq(): Weighted average of the frequency components to obtain a mean frequency  
