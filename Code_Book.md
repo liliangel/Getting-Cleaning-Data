@@ -35,71 +35,69 @@ Time data from accelerometer where the magnitude of these three-dimensional sign
    * mean(): Mean value
    * std(): Standard deviation   
    
-## timeGravityAccelerometerMagnitude- Variable.
-### Time data from accelerometer where the magnitude of these three-dimensional signals were calculated using the Euclidean norm.
-   *mean(): Mean value
-   *std(): Standard deviation   
+#### timeGravityAccelerometerMagnitude- Variable.
+Time data from accelerometer where the magnitude of these three-dimensional signals were calculated using the Euclidean norm.
+   * mean(): Mean value
+   * std(): Standard deviation   
    
-## timeBodyAccelerometerJerkMagnitude- Variable.
-### Time data from accelerometer where the magnitude of these three-dimensional signals were calculated using the Euclidean norm 
-### and these values were derived previously in time to obtain Jerk signal.
-   *mean(): Mean value
-   *std(): Standard deviation   
+#### timeBodyAccelerometerJerkMagnitude- Variable.
+Time data from accelerometer where the magnitude of these three-dimensional signals were calculated using the Euclidean norm and these values were derived previously in time to obtain Jerk signal.
+   * mean(): Mean value
+   * std(): Standard deviation   
    
-## timeBodyGyroscopeMagnitude- Variable.
-### Time data from gyroscope where the magnitude of these three-dimensional signals were calculated using the Euclidean norm.
-   *mean(): Mean value
-   *std(): Standard deviation    
+#### timeBodyGyroscopeMagnitude- Variable.
+Time data from gyroscope where the magnitude of these three-dimensional signals were calculated using the Euclidean norm.
+   * mean(): Mean value
+   * std(): Standard deviation    
 
-## timeBodyGyroscopeJerkMagnitude- Variable.
-### Time data from gyroscope where the magnitude of these three-dimensional signals were calculated using the Euclidean norm 
-### and these values were derived previously in time to obtain Jerk signal.
-   *mean(): Mean value
-   *std(): Standard deviation    
+#### timeBodyGyroscopeJerkMagnitude- Variable.
+Time data from gyroscope where the magnitude of these three-dimensional signals were calculated using the Euclidean norm and these values were derived previously in time to obtain Jerk signal.
+   * mean(): Mean value
+   * std(): Standard deviation    
 
-## frequencyBodyAccelerometer- Variable.
-### Frequency data from accelerometer in 3-axial raw signals -XYZ
-   *mean(): Mean value
-   *std(): Standard deviation
-   *meanFreq(): Weighted average of the frequency components to obtain a mean frequency
+#### frequencyBodyAccelerometer- Variable.
+Frequency data from accelerometer in 3-axial raw signals -XYZ
+   * mean(): Mean value
+   * std(): Standard deviation
+   * meanFreq(): Weighted average of the frequency components to obtain a mean frequency
    
-## frequencyBodyAccelerometerJerk- Variable.
-### Frequency data from accelerometer,these values were derived in time to obtain Jerk signal for 3-axial raw signals -XYZ
-   *mean(): Mean value
-   *std(): Standard deviation
-   *meanFreq(): Weighted average of the frequency components to obtain a mean frequency
+#### frequencyBodyAccelerometerJerk- Variable.
+Frequency data from accelerometer,these values were derived in time to obtain Jerk signal for 3-axial raw signals -XYZ
+   * mean(): Mean value
+   * std(): Standard deviation
+   * meanFreq(): Weighted average of the frequency components to obtain a mean frequency
    
-## frequencyBodyGyroscope- Variable.
-### Frequency data from gyroscope in 3-axial raw signals -XYZ
-   *mean(): Mean value
-   *std(): Standard deviation
-   *meanFreq(): Weighted average of the frequency components to obtain a mean frequency
+#### frequencyBodyGyroscope- Variable.
+Frequency data from gyroscope in 3-axial raw signals -XYZ
+   * mean(): Mean value
+   * std(): Standard deviation
+   * meanFreq(): Weighted average of the frequency components to obtain a mean frequency
   
-## frequencyBodyAccelerometerMagnitude- Variable.
-### Frequency data from accelerometer where the magnitude of these three-dimensional signals were calculated using the Euclidean norm.
-   *mean(): Mean value
-   *std(): Standard deviation    
-   *meanFreq(): Weighted average of the frequency components to obtain a mean frequency
+#### frequencyBodyAccelerometerMagnitude- Variable.
+Frequency data from accelerometer where the magnitude of these three-dimensional signals were calculated using the Euclidean norm.
+   * mean(): Mean value
+   * std(): Standard deviation    
+   * meanFreq(): Weighted average of the frequency components to obtain a mean frequency
    
-## frequencyBodyAccelerometerJerkMagnitude- Variable.
-### Frequency data from accelerometer where the magnitude of these three-dimensional signals were calculated using the Euclidean norm 
+#### frequencyBodyAccelerometerJerkMagnitude- Variable.
+Frequency data from accelerometer where the magnitude of these three-dimensional signals were calculated using the Euclidean norm 
 ### and these values were derived previously in time to obtain Jerk signal.
-   *mean(): Mean value
-   *std(): Standard deviation   
-   *meanFreq(): Weighted average of the frequency components to obtain a mean frequency  
+   * mean(): Mean value
+   * std(): Standard deviation   
+  * meanFreq(): Weighted average of the frequency components to obtain a mean frequency  
  
-## frequencyBodyGyroscopeMagnitude- Variable.
-### Frequency data from gyroscope where the magnitude of these three-dimensional signals were calculated using the Euclidean norm.
-   *mean(): Mean value
-   *std(): Standard deviation    
-   *meanFreq(): Weighted average of the frequency components to obtain a mean frequency
+#### frequencyBodyGyroscopeMagnitude- Variable.
+Frequency data from gyroscope where the magnitude of these three-dimensional signals were calculated using the Euclidean norm.
+   * mean(): Mean value
+   * std(): Standard deviation    
+   * meanFreq(): Weighted average of the frequency components to obtain a mean frequency
    
-## frequencyBodyGyroscopeJerkMagnitude- Variable.
-### Frequency data from gyroscope where the magnitude of these three-dimensional signals were calculated using the Euclidean norm 
-### and these values were derived previously in time to obtain Jerk signal.
-   *mean(): Mean value
-   *std(): Standard deviation   
-   *meanFreq(): Weighted average of the frequency components to obtain a mean frequency  
+#### frequencyBodyGyroscopeJerkMagnitude- Variable.
+Frequency data from gyroscope where the magnitude of these three-dimensional signals were calculated using the Euclidean norm 
+and these values were derived previously in time to obtain Jerk signal.
+   * mean(): Mean value
+   * std(): Standard deviation   
+   * meanFreq(): Weighted average of the frequency components to obtain a mean frequency  
 
    
 
