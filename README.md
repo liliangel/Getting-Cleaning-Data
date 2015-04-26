@@ -1,9 +1,9 @@
 ## Run Analysis scrip.
 
 In order to evalute this scrip, please do the following considerations:
-1.    The files were extracted to my main directory.
-2.    For the step 2, the variables of mean, std  and meanFrequency values will be extracted with exception  for the angle variables.
-3.    Two packages will be called: plyr and reshape2.
+ 1. The files were extracted to my main directory.
+ 2. For the step 2, the variables of mean, std  and meanFrequency values will be extracted with exception  for the   angle variables.
+ 3. Two packages will be called: plyr and reshape2.
 <!-- -->
 
 Using read.table() function I read my text files that I will use to prepare my data set.
