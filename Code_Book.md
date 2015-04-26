@@ -83,7 +83,7 @@ Frequency data from accelerometer where the magnitude of these three-dimensional
 Frequency data from accelerometer where the magnitude of these three-dimensional signals were calculated using the Euclidean norm and these values were derived previously in time to obtain Jerk signal.
    * mean(): Mean value
    * std(): Standard deviation   
-  * meanFreq(): Weighted average of the frequency components to obtain a mean frequency  
+   * meanFreq(): Weighted average of the frequency components to obtain a mean frequency  
  
 #### frequencyBodyGyroscopeMagnitude- Variable.
 Frequency data from gyroscope where the magnitude of these three-dimensional signals were calculated using the Euclidean norm.
